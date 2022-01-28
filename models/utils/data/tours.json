@@ -1,0 +1,76 @@
+[
+    {
+      "name": "Región Insular",
+      "duration": 5,
+      "maxGroupSize": 5,
+      "difficulty": "easy",
+      "ratingsAverage": 5,
+      "ratingsQuantity": 37,
+      "price": 1.500,
+      "summary": "Conoce el impresionante Archipielago de los Roques",
+      "description": "Boletos Aéreos hacia Los Roques desde Maiquetía (Caracas) con retorno, o desde el Aeropuerto de su elección, Atención recibimiento a su llegada a Los Roques, Alojamiento en la posada Doña Chelita, Excursión en bote a cayos cercanos al Gran Roque (uno por día),Uso de toldos, sillas de playas y mesas, Almuerzo caliente en la playa a base de pescado, o almuerzo frío a su elección,Bebidas y refrigerios en la playa, Actividad Guiada de Snorkeling, con equipos, Juegos de playa y servicio de Guías",
+      "imageCover": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150327397.jpg?k=861268334159b4875be5cebc35afdc5519e0051d46af92cc7a236a9e3b75440e&o=&hp=1",
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+    
+    {
+      "name": "Región del Sur del Orinoco",
+      "duration": 6,
+      "maxGroupSize": 10,
+      "difficulty": "easy",
+      "ratingsAverage": 4.9,
+      "ratingsQuantity": 37,
+      "price": 1.800,
+      "summary": " Explora la Gran Sabana, visita la catarata más alta del mundo",
+      "description": "Asistencia en el aeropuerto de Santa Elena, el almuerzo en la frontera con Brasil (Línea) traslado al hotel para cenar y relajarse, Después del desayuno, comenzara un emocionante recorrido  en un jeep 4×4 para llegar  al río y cascadas en Jasper, Agua Fría, San Francisco y Yuruani Suruape. Las cataratas son únicas en la Gran Sabana, debido a la edad de la tierra, Después del almuerzo, visite el Kama Camp, donde se puede disfrutar de un refrescante baño en al pie del Salto Kama 55 metros",
+      "imageCover": "https://lonelyplanetes.cdnstatics2.com/sites/default/files/styles/max_650x650/public/imprescindibles_images/Venezuela_SaltodelAngel_GettyRF_477241007_alicenerr_Getty%20Images_iStockphoto.jpg?itok=HHiOsfFb",
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+    
+    {
+      "name": "Región del Lago de Maracaibo",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 37,
+      "price": 1.400,
+      "summary": "Descubre Maracaibo, la capital del Estado Zulia",
+      "description": "Recibimiento en el aeropuerto, traslado al hotel, visita a la basilica de la virgen de la chiquinquira",
+      "imageCover": "https://cdn.elnacional.com/wp-content/uploads/2021/10/Lago-de-Maracaibo.jpg",
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+    {
+      "name": " Región de los llanos",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 37,
+      "price": 1.500,
+      "summary": "Deslumbrate en los llanos Venezolanos",
+      "description": "Descubre Barinas,Apure, Páramos de los Andes venezolanos, Rafting o tripas,Los secretos del pie de monte Barinés,Guías especialistas en observación de aves,",
+      "imageCover": "https://media.istockphoto.com/photos/hills-and-plains-in-purpuken-at-la-gran-sabana-venezuela-picture-id1133838510?k=20&m=1133838510&s=612x612&w=0&h=QTZSlhqHRHFy7zxrw1XNBTwDsJUYtzt-OUEw-43Q7A4=",
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+    {
+      "name": "Región de los Andes",
+      "duration": 8,
+      "maxGroupSize": 15,
+      "difficulty": "easy",
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 37,
+      "price": 2.000,
+      "summary": "Pierdete en el encanto de los Andes, visitaras Merida, Trujillo, Tachira",
+      "description": "Podras descubrir los estados de: Merida, Trujillo y tachira, ",
+      "imageCover": "https://i.pinimg.com/originals/83/a9/fe/83a9fecffb063e331cacec2205a694b4.jpg",
+      "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    }
+  ]
+  
+  
