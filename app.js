@@ -10,6 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 //ROUTES 
-app.use('/api/v1/tours', tourRoutes)
+app.use('/api/v1/tours', tourRoutes);
+
 
 module.exports = app;
