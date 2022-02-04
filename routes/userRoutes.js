@@ -4,7 +4,9 @@ const userController = require("../controllers/userController");
 const authController = require('../controllers/authController')
 
 // ROUTES
-router.post('/signup', authController.signup)
+router.post('/signup', authController.signup);
+//login route//
+router.post('/login', authController.login);
 
 //Main routes
 router.route("/").get(userController.getAllUsers).post(userController.addUser);
