@@ -1,6 +1,6 @@
 # venezuela Tours
 Proyecto en desarrollo.
-# Aplicación MERN
+# Desarrollado con el stack MERN
 
 
 
